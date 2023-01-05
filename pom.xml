@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.1</version> 
+	<version>0.0.1-SNAPHOT</version> 
 	
 	<name>maven-web-application</name>
 
@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.238.161.86:8181/mylandmarktech/repository/cash-app-web-releases/</url>
+	      <url>http://34.236.254.93:8181/mylandmarktech/repository/cash-app-web-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.238.161.86:8181/mylandmarktech/repository/cash-app-web-snapshots/</url>
+	      <url>http://34.236.254.93:8181/mylandmarktech/repository/cash-app-web-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
