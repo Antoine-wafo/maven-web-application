@@ -42,7 +42,7 @@ Please check build status.
 
 Thanks
 Landmark 
-+1 443 531 6471''', recipientProviders: [buildUser(), developers()], subject: 'success', to: 'wafoantoine@yahoo.fr' 
++1 443 531 6470''', recipientProviders: [buildUser(), developers()], subject: 'success', to: 'wafoantoine@yahoo.fr' 
       }
    }
   }
